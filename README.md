@@ -22,6 +22,6 @@ But which are the causes for these delays?
 
 In order to answer this question, we analyzed the provided dataset, containing up to 1.936.758 different internal flights in the US for 2008 and the causes for their delays, diversions and cancellations; if any.
 
-The data comes from the [U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics (BTS)](https://www.bts.gov/content/major-us-air-carrier-delays-cancellations-and-diversions).
+The data comes from the [U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics (BTS)](https://www.bts.gov/content/major-us-air-carrier-delays-cancellations-and-diversions). The business questions, queries and insights are outlined in `FlightsGroupAssignment.ipynb`.
 
 This project was completed with Diego Cuartas and Nisrine Ferahi.
